@@ -12,6 +12,7 @@ public class LinkedList1{
         list.add(5);    //      to add a single element in a  LinkedList
         list.add(10);
         list.add(15);
+        list.add(56);
         list.add(1,23);
 
         ArrayList<Integer> A = new ArrayList<>();
